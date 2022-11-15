@@ -79,5 +79,8 @@ mode.addEventListener("change", () => {
     createSelect();
   } else {
     showAll();
+    if (undefined !== select) {
+      select.remove();
+    }
   }
 });
