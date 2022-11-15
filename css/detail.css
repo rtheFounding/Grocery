@@ -1,0 +1,36 @@
+
+table,
+th,
+tr,
+td {
+    border: 2px solid black;
+    margin: 0 auto;
+    padding: 5px;
+    margin-top: 10px;
+
+}
+
+.container {
+    text-align: center;
+
+}
+
+#tBody {
+    border: 2px solid black;
+    margin: 0 auto;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+body {
+    background-color: #DBF9FC;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.nav {
+    text-align: center;
+}
